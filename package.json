@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tgrm/tgrm.github.io.git"
+    "url": "git+https://github.com/tophackr/telegram.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tgrm/tgrm.github.io/issues"
+    "url": "https://github.com/tophackr/telegram/issues"
   },
-  "homepage": "https://github.com/tgrm/tgrm.github.io",
+  "homepage": "https://github.com/tophackr/telegram",
   "devDependencies": {
     "autoprefixer": "^9.7.1",
     "cssnano": "^4.1.10",
